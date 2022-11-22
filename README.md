@@ -6,10 +6,21 @@
   Documentation
 </p>
 
-## Add your sauce
+## Share your sauce
+
 
 > **Note**
-> This section has the instructions on how to add a new sauce to the repo.
+
+#### As a contributer
+- Create a personal fork of the project.
+- Create a new branch to work on.
+- Implement your sauce, comment your code.
+- From your fork open a pull request in the `master` branch.
+
+#### As a developer
+- Add a commit with your personal sauce.
+
+> If you are not listed as contributer and you should/want/must please contact _Whe-Who-Non-Profits-The-Most_
 
 ## Future Direction Ideas
 
