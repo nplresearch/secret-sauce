@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# This is a script to start a new project repo 
+# with a standard folder sturcture.
+# Make this file executable with chmod +x mkrepo
+# and make sure its location is included in PATH.
+
+# example usage:
+# mkrepo
+# mkrepo repo_name
+
+# if no name is provided, use "new_repo"
+folder_name=${1:-new_repo}
+
+mkdir $folder_name
+cd $folder_name
+
+# create subfolders
+mkdir data
+mkdir notebooks
+mkdir code
+mkdir notes
+
+# copy templates files
+cp ../templates/imports.py code/
+cp ../templates/template.ipynb notebooks/
+
+cd ..
