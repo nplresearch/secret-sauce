@@ -8,7 +8,7 @@
 
 ## Share your sauce
 > **Note**
-> If you are not listed as contributer and you should/want/must please contact _Whe-Who-Non-Profits-The-Most_
+> If you are not listed as contributer and you should/want/must please contact _He-Who-Non-Profits-The-Most_
 
 #### As a contributer
 - Create a personal fork of the project.
